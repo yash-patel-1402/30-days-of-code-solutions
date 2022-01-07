@@ -4,7 +4,7 @@
 
 ---
 
-[**Problem link :**] (https://www.hackerrank.com/contests/day-1-of-30/challenges/collatz-sequence-3)
+[**Problem link :**](https://www.hackerrank.com/contests/day-1-of-30/challenges/collatz-sequence-3)
 
 **Summary :** According to the following formula update the value of `n` repeatedly till `n` becomes 1 and count the number of times you had to update the value of `n`.
 

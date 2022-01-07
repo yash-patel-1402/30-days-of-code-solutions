@@ -4,7 +4,7 @@
 
 ---
 
-[**Problem link**] (https://www.hackerrank.com/contests/day-2-of-30/challenges/lucky-number-23)
+[**Problem link**](https://www.hackerrank.com/contests/day-2-of-30/challenges/lucky-number-23)
 
 **Summary :** Given a number `num`, check if all the digits are unique. If unique then output `The number is lucky.` else output `The number is unlucky.`.
 

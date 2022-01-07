@@ -4,7 +4,7 @@
 
 ---
 
-[**Problem link :**] (https://www.hackerrank.com/contests/day-1-of-30/challenges/sum-of-digit-3-1)
+[**Problem link :**](https://www.hackerrank.com/contests/day-1-of-30/challenges/sum-of-digit-3-1)
 
 **Summary :** Find the nth integer whose sum of all the digit is equal to 11.
 

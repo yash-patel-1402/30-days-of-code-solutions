@@ -4,7 +4,7 @@
 
 ---
 
-[**Problem link**] (https://www.hackerrank.com/contests/day-2-of-30/challenges/frame-it-up)
+[**Problem link**](https://www.hackerrank.com/contests/day-2-of-30/challenges/frame-it-up)
 
 **Summary :** Given a number `num` find the binary equivalent of the number and output it
 

@@ -4,7 +4,7 @@
 
 ---
 
-[**Problem link :**] (https://www.hackerrank.com/contests/day-1-of-30/challenges/difference-between-sum-and-product-of-digit)
+[**Problem link :**](https://www.hackerrank.com/contests/day-1-of-30/challenges/difference-between-sum-and-product-of-digit)
 
 **Summary :** Take sum and product of all the digits and give absolute difference between them.
 

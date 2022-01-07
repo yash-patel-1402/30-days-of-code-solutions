@@ -4,7 +4,7 @@
 
 ---
 
-[**Problem link**] (https://www.hackerrank.com/contests/day-2-of-30/challenges/keep-arranging)
+[**Problem link**](https://www.hackerrank.com/contests/day-2-of-30/challenges/keep-arranging)
 
 **Summary :** Find the nth harmonic number in the following harmonic series
 
