@@ -73,7 +73,7 @@ int main() {
   for (auto i: v) mp[i]++;
 
   for (int first = 0; first < n - 1; first++) {
-    for (int second = first + 1; j < n; j++) {
+    for (int second = first + 1; second < n; second++) {
       int partialSum = v[first] + v[second];
       int reqNum = 0 - partialSum;
 
