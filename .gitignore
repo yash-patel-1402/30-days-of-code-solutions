@@ -1,2 +1,4 @@
 *.sh
 template.md
+visualization-template.cpp
+.vscode
