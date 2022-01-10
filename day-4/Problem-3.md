@@ -79,7 +79,7 @@ int main() {
 
       // how many reqNum are required
       int requiredCount = 1;
-      if (v[i] == reqNum) requiredCount++;
+      if (v[first] == reqNum) requiredCount++;
       if (v[second] == reqNum) requiredCount++;
 
       if (mp[reqNum] >= requiredCount) {
